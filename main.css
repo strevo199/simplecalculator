@@ -1,0 +1,85 @@
+.appBody{
+    background-color:#182749;
+}
+
+.app{
+    width: 520px;
+    max-width: 80%;
+    /* background-color: inherit; */
+}
+
+.main{
+    background-color: #3a47648c;
+    height: 60vh;
+}
+
+.toggle{
+    background-color:#161b25 ;
+}
+
+.toggle_btn:focus{
+    outline: none;
+}
+
+.screen{
+    background-color: #182034;
+    height: 13vh;
+    color: white;
+} 
+
+.header{
+    height: 13vh;
+} 
+
+.btn{
+    background-color: #dfe6e7;
+    font-weight: bold;
+    box-shadow: inset 2px -1px 10px #0c0e1393,inset -2px 5px 10px #070c1a;
+}
+
+.theme_2 .screen{
+    color: #000000;
+    background-color: #e6e6e6;
+}
+.theme_2 .header *{
+    color: #000000;
+    
+}
+.theme_2 .header_toggle{
+    color: #000000;
+}
+.theme_2 .main{
+    background: #e6e6e6;
+}
+/* .them3_1 .screen{
+    color: #000000;
+} */
+
+
+.theme_3 .screen{
+    color: #fcf049;
+    background-color: #1d0934;
+}
+.theme_3 .header *{
+    color: #fcf049;
+    
+}
+.theme_3 .btn {
+    color: #fcf049;
+    background-color: rgba(63, 14, 109, 0.308);
+}
+.theme_3 .btn:nth-child(17) {
+    color: #ffffff;
+}
+.theme_3 .btn:nth-child(18) {
+    color: #030303;
+    background-color: rgb(6, 196, 243);
+}
+.theme_3 .header_toggle{
+    color: #000000;
+}
+
+
+/* .them3_1 .screen{
+    color: #000000;
+} */
